@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/ColdChain.sol": "CryptoSuite"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/ColdChain.sol": {
+			"keccak256": "0xd9cb910e4f0ea83940210b8875434d73ee58f2458b5a0e091ef222ac74d2a872",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://6c664ac8f4f01f69a64d71d8e483bb2f95642332f2e9fa9b776138a564af9c95",
+				"dweb:/ipfs/QmbgyDq5ZWxsXkSTQzGahUHfJAnUFdSeUyN7BVhSt6vgFd"
+			]
+		}
+	},
+	"version": 1
+}
